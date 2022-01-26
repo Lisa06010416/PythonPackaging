@@ -5,7 +5,12 @@ A simple demo - Only has setup.py
 
 install :
 ```
+# install
 pip install .
+python setup.py install
+
+# develop
+python setup.py develop
 ```
 
 And you can call package like this:
